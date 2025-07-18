@@ -1,0 +1,1 @@
+OPENAI_API_KEY=sk-...   ← your real OpenAI key goes here
